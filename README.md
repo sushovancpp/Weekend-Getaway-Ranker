@@ -1,4 +1,5 @@
 # Weekend Getaway Ranker
+https://sushovan-weekend-getaway-ranker.streamlit.app/
 
 ## Project Description
 A data engineering project that recommends top weekend travel destinations in India
