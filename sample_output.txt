@@ -1,0 +1,27 @@
+================================================================================
+WEEKEND GETAWAY RANKER - TOP INDIAN DESTINATIONS
+================================================================================
+
+Enter source city: Kolkata
+
+Top weekend destinations from Kolkata:
+
+            Name        City  distance_km  final_score
+218  Digha Beach       Digha        183.0     0.401087
+215   Tiger Hill  Darjeeling        611.0     0.100327
+
+
+================================================================================
+WEEKEND GETAWAY RANKER - TOP INDIAN DESTINATIONS
+================================================================================
+
+Enter source city: Delhi
+
+Top weekend destinations from Delhi:
+
+                   Name    City  distance_km  final_score
+181           Taj Mahal    Agra        233.0     0.800855
+89           Amber Fort  Jaipur        281.0     0.699358
+321           Agra Fort    Agra        233.0     0.472476
+324  Albert Hall Museum  Jaipur        281.0     0.381790
+90         Jaigarh Fort  Jaipur        281.0     0.337196
